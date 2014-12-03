@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Up&amp;Down</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="but_main">메인으로 가기</string>
+    <string name="chance">1/10</string>
+
+</resources>
